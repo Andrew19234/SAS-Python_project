@@ -1,0 +1,11 @@
+Brand,Model,Year,Mileage,FuelType,Price,HP,Doors
+Toyota,Corolla,2012,120000,Gas,8000,132,4
+Honda,Civic,2015,95000,Gas,10000,158,4
+Ford,Focus,2014,110000,Gas,7000,160,4
+Nissan,Altima,2016,60000,Gas,12000,182,4
+Chevrolet,Cruze,2018,50000,Gas,14000,153,4
+Tesla,Model 3,2020,30000,Electric,35000,271,4
+BMW,320i,2013,85000,Gas,15000,180,4
+Mercedes,C-Class,2017,45000,Diesel,27000,241,4
+Audi,A4,2019,40000,Gas,22000,190,4
+Hyundai,Elantra,2021,15000,Gas,17000,147,4
